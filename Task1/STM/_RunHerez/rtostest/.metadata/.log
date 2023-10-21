@@ -1,0 +1,80 @@
+!SESSION 2023-09-28 09:34:44.143 -----------------------------------------------
+eclipse.buildId=Version 1.13.1
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-09-28 09:35:10.999
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-09-28 09:35:11.002
+!MESSAGE Log4j2 initialized with config file C:\Users\haosh\Desktop\MDP-main\STM\_RunHerez\rtostest\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-09-28 09:35:14.627
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-09-28 09:35:44.628 -----------------------------------------------
+eclipse.buildId=Version 1.13.1
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  C:\Users\haosh\Desktop\MDP-main\STM\_RunHerez\rtostest\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\haosh\Desktop\MDP-main\STM\_RunHerez\rtostest\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-09-28 09:35:55.634
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-09-28 09:35:55.636
+!MESSAGE Log4j2 initialized with config file C:\Users\haosh\Desktop\MDP-main\STM\_RunHerez\rtostest\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-09-28 09:35:59.343
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.jobs 2 2 2023-09-28 09:36:21.677
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.Workbench$39
+!SESSION 2023-09-30 16:18:08.061 -----------------------------------------------
+eclipse.buildId=Version 1.13.1
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-09-30 16:18:36.616
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-09-30 16:18:36.617
+!MESSAGE Log4j2 initialized with config file C:\Users\haosh\Desktop\MDP-main\STM\_RunHerez\rtostest\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-09-30 16:18:40.157
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-09-30 16:19:05.507 -----------------------------------------------
+eclipse.buildId=Version 1.13.1
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-09-30 16:19:24.931
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-09-30 16:19:24.933
+!MESSAGE Log4j2 initialized with config file C:\Users\haosh\Desktop\MDP-main\STM\_RunHerez\rtostest\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-09-30 16:19:28.560
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-09-30 16:20:05.461 -----------------------------------------------
+eclipse.buildId=Version 1.13.1
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  C:\Users\haosh\Desktop\MDP-main\STM\_RunHerez\rtostest\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\haosh\Desktop\MDP-main\STM\_RunHerez\rtostest\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-09-30 16:20:32.965
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-09-30 16:20:32.965
+!MESSAGE Log4j2 initialized with config file C:\Users\haosh\Desktop\MDP-main\STM\_RunHerez\rtostest\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-09-30 16:20:37.940
+!MESSAGE Started RMI Server, listening on port 41337
