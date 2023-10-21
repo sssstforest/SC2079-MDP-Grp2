@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Kai Seong/Desktop/School/Code/NTU/MDP-Android/app/src/main/res/drawable/arena_icon.xml" value="0.368" />
+        <entry key="..\:/Users/Kai Seong/Desktop/School/Code/NTU/MDP-Android/app/src/main/res/font/arcade_classic.xml" value="0.39739583333333334" />
+        <entry key="..\:/Users/Kai Seong/Desktop/School/Code/NTU/MDP-Android/app/src/main/res/layout/arena.xml" value="0.3671875" />
+        <entry key="..\:/Users/Kai Seong/Desktop/School/Code/NTU/MDP-Android/app/src/main/res/layout/bluetooth.xml" value="0.1" />
+        <entry key="..\:/Users/Kai Seong/Desktop/School/Code/NTU/MDP-Android/app/src/main/res/layout/communication.xml" value="0.3671875" />
+        <entry key="..\:/Users/Kai Seong/Desktop/School/Code/NTU/MDP-Android/app/src/main/res/layout/device_adapter_view.xml" value="0.3671875" />
+        <entry key="..\:/Users/Kai Seong/Desktop/School/Code/NTU/MDP-Android/app/src/main/res/layout/home.xml" value="0.3671875" />
+        <entry key="..\:/Users/Kai Seong/Desktop/School/Code/NTU/MDP-Android/app/src/main/res/layout/my_row.xml" value="0.3671875" />
+        <entry key="..\:/Users/Kai Seong/Desktop/School/Code/NTU/MDP/Android/app/src/main/res/font/jockey_one_regular.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Kai Seong/Desktop/School/Code/NTU/MDP/Android/app/src/main/res/layout/arena.xml" value="0.22" />
+        <entry key="..\:/Users/Kai Seong/Desktop/School/Code/NTU/MDP/Android/app/src/main/res/layout/bluetooth.xml" value="0.1796875" />
+        <entry key="..\:/Users/Kai Seong/Desktop/School/Code/NTU/MDP/Android/app/src/main/res/layout/communication.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Kai Seong/Desktop/School/Code/NTU/MDP/Android/app/src/main/res/layout/device_adapter_view.xml" value="0.1" />
+        <entry key="..\:/Users/Kai Seong/Desktop/School/Code/NTU/MDP/Android/app/src/main/res/layout/home.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Kai Seong/Desktop/School/Code/NTU/MDP/Android/app/src/main/res/layout/my_row.xml" value="0.14521452145214522" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
